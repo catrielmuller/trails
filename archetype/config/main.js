@@ -23,6 +23,13 @@ module.exports = {
   ],
 
   /**
+   * Override trailspacks configurations for modify based on custom requirements
+   */
+  packsConfig: {
+
+  },
+
+  /**
    * Define application paths here. "root" is the only required path.
    */
   paths: {
